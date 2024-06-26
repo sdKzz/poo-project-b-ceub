@@ -13,11 +13,6 @@ Este projeto é uma API REST simples para gerenciar as informações dos emprega
 - **GET** `/empregados/{id}` - Obtém as informações de um empregado pelo ID.
 
 ## Como Executar
-1. Clone o repositório para sua máquina local usando `git clone `.
+1. Clone o repositório para sua máquina local usando `git clone https://github.com/sdKzz/poo-project-b-ceub.git`.
 2. Navegue até a pasta do projeto e execute `mvn spring-boot:run` para iniciar a aplicação.
 3. A API estará disponível em `http://localhost:8080`.
-
-## Endpoints da API
-A API possui os seguintes endpoints disponíveis:
-
-### Inserir Empregado
