@@ -9,8 +9,8 @@ Este projeto é uma API REST simples para gerenciar as informações dos emprega
 - Mvn
 
 ## Funcionalidades
-- **POST** `/empregados` - Insere informações de um novo empregado.
-- **GET** `/empregados/{id}` - Obtém as informações de um empregado pelo ID.
+- **POST** `/funcionario` - Insere informações de um novo empregado.
+- **GET** `/funcionario/{id}` - Obtém as informações de um empregado pelo ID.
 
 ## Como Executar
 1. Clone o repositório para sua máquina local usando `git clone https://github.com/sdKzz/poo-project-b-ceub.git`.
